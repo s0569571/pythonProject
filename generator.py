@@ -1,7 +1,6 @@
-print('This is just a simple programm')
-
 import random as rn
 
+print('This is just a simple programm')
 
 while True:
     rnd_num = rn.randint(1, 5)
