@@ -13,8 +13,4 @@ while True:
         print('u kinda dogshit - num: ' + str(rnd_num))
         continue
 
-
-
-
-
-
+print("u won wohooooo!")
